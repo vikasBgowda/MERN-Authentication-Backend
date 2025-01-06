@@ -1,6 +1,6 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
-![Demo App](frontend/FrontEnd Auth/public/image.jpg)
+![Logo](./frontend/FrontEnd Auth/public/image.jpg "App screenshot")
 
 
 About This Project:
