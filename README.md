@@ -1,6 +1,6 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
-![Logo](./frontend/FrontEnd Auth/public/image.jpg "App screenshot")
+![Logo](backend/image.png "App screenshot")
 
 
 About This Project:
