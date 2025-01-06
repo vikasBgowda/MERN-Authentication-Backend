@@ -1,6 +1,6 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](frontend/FrontEnd Auth/public/Screenshot 2025-01-06 104535.png)
 
 
 About This Project:
